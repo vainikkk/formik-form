@@ -1,0 +1,26 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.label{
+  text-align: left;
+  width: 300px;
+  font-weight: bold;
+  padding-right: 5px;
+  margin: 10px;
+}
+.field-block{
+  margin-bottom: 5px;
+}
+.label-field{
+  margin-right : 25px;
+}
+.field{
+  margin-left : 5px;
+}
+.App-Form{
+  display: block;
+  float: left;
+  margin: 20px;
+  padding: 50px;
+
+}
